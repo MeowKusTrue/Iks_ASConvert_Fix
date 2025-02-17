@@ -1,0 +1,12 @@
+D:\system\Downloads\Iks_ASConvert-main\bin\Debug\net8.0\Iks_ASConvert.deps.json
+D:\system\Downloads\Iks_ASConvert-main\bin\Debug\net8.0\Iks_ASConvert.dll
+D:\system\Downloads\Iks_ASConvert-main\bin\Debug\net8.0\Iks_ASConvert.pdb
+D:\system\Downloads\Iks_ASConvert-main\obj\Debug\net8.0\Iks_ASConvert.csproj.AssemblyReference.cache
+D:\system\Downloads\Iks_ASConvert-main\obj\Debug\net8.0\Iks_ASConvert.GeneratedMSBuildEditorConfig.editorconfig
+D:\system\Downloads\Iks_ASConvert-main\obj\Debug\net8.0\Iks_ASConvert.AssemblyInfoInputs.cache
+D:\system\Downloads\Iks_ASConvert-main\obj\Debug\net8.0\Iks_ASConvert.AssemblyInfo.cs
+D:\system\Downloads\Iks_ASConvert-main\obj\Debug\net8.0\Iks_ASConvert.csproj.CoreCompileInputs.cache
+D:\system\Downloads\Iks_ASConvert-main\obj\Debug\net8.0\Iks_ASConvert.dll
+D:\system\Downloads\Iks_ASConvert-main\obj\Debug\net8.0\refint\Iks_ASConvert.dll
+D:\system\Downloads\Iks_ASConvert-main\obj\Debug\net8.0\Iks_ASConvert.pdb
+D:\system\Downloads\Iks_ASConvert-main\obj\Debug\net8.0\ref\Iks_ASConvert.dll
