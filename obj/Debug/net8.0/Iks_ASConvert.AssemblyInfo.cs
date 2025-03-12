@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Iks_ASConvert")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdac186bdde22c151ace47a8eb3196a45a7db9b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Iks_ASConvert")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Iks_ASConvert")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

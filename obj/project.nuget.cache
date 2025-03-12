@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oCasWQaXlbE=",
+  "dgSpecHash": "3ByCm/qPhMA=",
   "success": true,
-  "projectFilePath": "D:\\system\\Downloads\\Iks_ASConvert-main\\Iks_ASConvert.csproj",
+  "projectFilePath": "D:\\Projects\\cs2\\Iks_ASConvert_Fix\\Iks_ASConvert.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joker\\.nuget\\packages\\counterstrikesharp.api\\1.0.305\\counterstrikesharp.api.1.0.305.nupkg.sha512",
     "C:\\Users\\joker\\.nuget\\packages\\mcmaster.netcore.plugins\\1.4.0\\mcmaster.netcore.plugins.1.4.0.nupkg.sha512",

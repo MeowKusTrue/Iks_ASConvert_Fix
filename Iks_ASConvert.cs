@@ -40,9 +40,10 @@ public class Iks_ASConvert : BasePlugin, IPluginConfig<PluginConfig>
     {
         List<Admin> admins = new List<Admin>();
         string sql =
-            "SELECT a.steamid, s.flags, s.immunity, s.server_id " +
+            "SELECT a.steamid, s.flags AS server_flags, g.flags AS group_flags, s.immunity, s.server_id " +
             "FROM as_admins a " +
-            "JOIN as_admins_servers s ON a.id = s.admin_id";
+            "JOIN as_admins_servers s ON a.id = s.admin_id " +
+            "LEFT JOIN as_groups g ON s.group_id = g.id";
 
         try
         {
@@ -54,11 +55,14 @@ public class Iks_ASConvert : BasePlugin, IPluginConfig<PluginConfig>
                 while (await reader.ReadAsync())
                 {
                     string steamid = reader.GetString("steamid");
-                    string flags = reader.GetString("flags");
+                    string serverFlags = reader.GetString("server_flags");
+                    string groupFlags = reader.IsDBNull(reader.GetOrdinal("group_flags")) ? "" : reader.GetString("group_flags");
                     int immunity = reader.GetInt32("immunity");
                     int serverId = reader.GetInt32("server_id");
 
-                    admins.Add(new Admin(steamid, flags, immunity, serverId));
+                    string combinedFlags = serverFlags + groupFlags;
+
+                    admins.Add(new Admin(steamid, combinedFlags, immunity, serverId));
                 }
             }
         }

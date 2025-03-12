@@ -10,3 +10,16 @@ D:\system\Downloads\Iks_ASConvert-main\obj\Debug\net8.0\Iks_ASConvert.dll
 D:\system\Downloads\Iks_ASConvert-main\obj\Debug\net8.0\refint\Iks_ASConvert.dll
 D:\system\Downloads\Iks_ASConvert-main\obj\Debug\net8.0\Iks_ASConvert.pdb
 D:\system\Downloads\Iks_ASConvert-main\obj\Debug\net8.0\ref\Iks_ASConvert.dll
+D:\Projects\cs2\Iks_ASConvert_Fix\bin\Debug\net8.0\Iks_ASConvert.deps.json
+D:\Projects\cs2\Iks_ASConvert_Fix\bin\Debug\net8.0\Iks_ASConvert.dll
+D:\Projects\cs2\Iks_ASConvert_Fix\bin\Debug\net8.0\Iks_ASConvert.pdb
+D:\Projects\cs2\Iks_ASConvert_Fix\obj\Debug\net8.0\Iks_ASConvert.csproj.AssemblyReference.cache
+D:\Projects\cs2\Iks_ASConvert_Fix\obj\Debug\net8.0\Iks_ASConvert.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\cs2\Iks_ASConvert_Fix\obj\Debug\net8.0\Iks_ASConvert.AssemblyInfoInputs.cache
+D:\Projects\cs2\Iks_ASConvert_Fix\obj\Debug\net8.0\Iks_ASConvert.AssemblyInfo.cs
+D:\Projects\cs2\Iks_ASConvert_Fix\obj\Debug\net8.0\Iks_ASConvert.csproj.CoreCompileInputs.cache
+D:\Projects\cs2\Iks_ASConvert_Fix\obj\Debug\net8.0\Iks_ASConvert.sourcelink.json
+D:\Projects\cs2\Iks_ASConvert_Fix\obj\Debug\net8.0\Iks_ASConvert.dll
+D:\Projects\cs2\Iks_ASConvert_Fix\obj\Debug\net8.0\refint\Iks_ASConvert.dll
+D:\Projects\cs2\Iks_ASConvert_Fix\obj\Debug\net8.0\Iks_ASConvert.pdb
+D:\Projects\cs2\Iks_ASConvert_Fix\obj\Debug\net8.0\ref\Iks_ASConvert.dll
